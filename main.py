@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""The Wire — 21 November 2026: make.fun news-image-20261121 entry.
+"""The Wire — 24 November 2026: make.fun news-image-20261124 entry.
 
 Renders a 1024x1024 one-page visual summary of the day's world news as a
 PNG using only the Python standard library (zlib + struct): no network,
